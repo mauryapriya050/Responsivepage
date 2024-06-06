@@ -168,7 +168,7 @@ button {
 
     .nav-button {
         display: inline-block;
-        background-image: url(images/nav-button-icon.png);
+        background-image: url(image/nav-button-icon.png);
         background-size: contain;
         width: 15px; 
         height: 15px;
